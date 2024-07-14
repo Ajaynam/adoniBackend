@@ -11,10 +11,10 @@ const pool = mysql.createPool({
   // password: "Nyus@2024",
   // database: "u606152440_nyus",
 
-  host: 'localhost' ,
-  user: "root",
-  password: "",
-  database: "adonitech",
+  host: '193.203.184.93' ,
+  user: "ubzrnkmd_adonitech_3d",
+  password: "Win@adoni",
+  database: "ubzrnkmd_adonitech_3d",
 
   
 });
