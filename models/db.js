@@ -6,12 +6,9 @@ const pool = mysql.createPool({
 
 
   
-  // host: '193.203.184.93',
-  // user: "u606152440_nyus",
-  // password: "Nyus@2024",
-  // database: "u606152440_nyus",
 
-  host: '193.203.184.93' ,
+
+  host: '103.191.209.34' ,
   user: "ubzrnkmd_adonitech_3d",
   password: "Win@adoni",
   database: "ubzrnkmd_adonitech_3d",
